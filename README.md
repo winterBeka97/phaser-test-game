@@ -1,3 +1,6 @@
+#Phaser 3 tutorial game 
+A game created with help of Phaser tutorial using phaser3-project-template. 
+
 # Phaser 3 Webpack Project Template
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
