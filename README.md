@@ -1,4 +1,4 @@
-#Phaser 3 tutorial game 
+# Phaser 3 tutorial game 
 A game created with help of Phaser tutorial using phaser3-project-template. 
 
 # Phaser 3 Webpack Project Template
