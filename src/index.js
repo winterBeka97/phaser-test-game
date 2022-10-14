@@ -24,7 +24,7 @@ class MyGame extends Phaser.Scene
             frameHeight: 48,
         });
     }
-      
+    
     create ()
     {   
         this.add.image(400,300,"sky");
